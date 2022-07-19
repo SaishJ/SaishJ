@@ -34,3 +34,5 @@
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](repo)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")](repo)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=020202&style=for-the-badge "Linux")](repo)
+
+[repo]: 
