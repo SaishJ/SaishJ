@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Music 🎶, Watching Cricket 🏏**
 
-- 🧭 https://saishj.netlify.app/
+- 🔗 https://saishj.netlify.app/
 
 ## 🌍 **CONNECT WITH ME**
 
