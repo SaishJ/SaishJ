@@ -30,6 +30,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge "Git")][repo]
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge "WordPress")][repo]
 [![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge "Oracle")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
 [![SqLite](https://img.shields.io/badge/-SqLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge "SqLite")][repo]
