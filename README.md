@@ -16,6 +16,9 @@
 <a href="https://codepen.io/saishj">
   <img src="https://img.shields.io/badge/-Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge" title="Codepen" alt="saishj" />
 </a>
+<a href="https://dev.to/saishj">
+  <img src="https://img.shields.io/badge/-Dev%20Community-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" title="Dev Community" alt="saishj" />
+</a>
 
 ## 🕸️ **LANGUAGES AND TOOLS**
 
