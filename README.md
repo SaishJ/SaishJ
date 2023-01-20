@@ -19,6 +19,9 @@
 <a href="https://dev.to/saishj">
   <img src="https://img.shields.io/badge/-Dev%20Community-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" title="Dev Community" alt="saishj" />
 </a>
+<a href="https://medium.com/@saishj2903">
+  <img src="https://img.shields.io/badge/-Medium-0A0A0A?logo=medium&logoColor=white&style=for-the-badge" />
+</a>
 
 ## 🕸️ **LANGUAGES AND TOOLS**
 
