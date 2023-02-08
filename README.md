@@ -43,6 +43,7 @@
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
 [![SqLite](https://img.shields.io/badge/-SqLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge "SqLite")][repo]
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
+[![Rapid API](https://img.shields.io/badge/-Rapid%20API-009688?logo=fastapi&logoColor=white&style=for-the-badge "Rapid API")][repo]
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][repo]
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge "Vercel")][repo]
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=020202&style=for-the-badge "Linux")][repo]
